@@ -5,6 +5,7 @@ Mandelbrot explorer. The app captures images every time the camera moves and sav
 
 * [SFML](https://www.sfml-dev.org/) - The framework used for rendering
 * [CMake](https://cmake.org/) - Build System
+* [conan](https://conan.io/) - Open source package manager/dependency manager
 
 ## Prerequisites
 
